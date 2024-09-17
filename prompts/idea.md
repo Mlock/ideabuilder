@@ -1,0 +1,7 @@
+    - project name: betterMe
+    - About the project: We're a mobile app that gives you personalized coaching to help your mental health.
+    - what it does: We use ai as a coach to help you with your mental health.
+    - Design style you like: Inspirational, uplifting, and motivational, clean and simple.
+    - here are some examples of sites that I like:
+        - https://www.superhi.com/
+        - https://peerlist.io/
